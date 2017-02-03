@@ -1,5 +1,5 @@
 {
-  "name": "browserify-shim",
+  "name": "@leichtgewicht/browserify-shim",
   "version": "3.8.13",
   "description": "Makes CommonJS-incompatible modules browserifyable.",
   "main": "index.js",
@@ -48,6 +48,6 @@
     "through": "~2.3.4"
   },
   "peerDependencies": {
-    "browserify": ">= 2.3"
+    "@leichtgewicht/browserify": ">= 2.3"
   }
 }
